@@ -1,0 +1,14 @@
+C:\Users\andre\Downloads\example\bin\Debug\net8.0\connected_example.exe
+C:\Users\andre\Downloads\example\bin\Debug\net8.0\connected_example.deps.json
+C:\Users\andre\Downloads\example\bin\Debug\net8.0\connected_example.runtimeconfig.json
+C:\Users\andre\Downloads\example\bin\Debug\net8.0\connected_example.dll
+C:\Users\andre\Downloads\example\bin\Debug\net8.0\connected_example.pdb
+C:\Users\andre\Downloads\example\obj\Debug\net8.0\connected_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\example\obj\Debug\net8.0\connected_example.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\example\obj\Debug\net8.0\connected_example.AssemblyInfo.cs
+C:\Users\andre\Downloads\example\obj\Debug\net8.0\connected_example.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\example\obj\Debug\net8.0\connected_example.dll
+C:\Users\andre\Downloads\example\obj\Debug\net8.0\refint\connected_example.dll
+C:\Users\andre\Downloads\example\obj\Debug\net8.0\connected_example.pdb
+C:\Users\andre\Downloads\example\obj\Debug\net8.0\connected_example.genruntimeconfig.cache
+C:\Users\andre\Downloads\example\obj\Debug\net8.0\ref\connected_example.dll
